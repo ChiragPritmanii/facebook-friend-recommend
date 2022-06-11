@@ -1,5 +1,4 @@
 # Facebook Friend Recommendation
-Given a pair of user ids, predict whether a directed link should be present from one user to the other.
 - Domain : Social Media
 - Type of problem: Binary Classification
 - Objective: Given a pair of user ids, predict whether a directed edge should be present from one user to the other.
